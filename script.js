@@ -1,3 +1,6 @@
+
+
+
 // Varaibles
   let celInp = document.getElementById('cel');
   let fahInp = document.getElementById('fah');
@@ -20,3 +23,7 @@
             }
            celInp.value = c;
         });
+
+
+
+
